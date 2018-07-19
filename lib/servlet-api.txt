@@ -1,0 +1,1 @@
+Extracted from Tomcat 5.5 (Servlet Spec 2.4 (http://tomcat.apache.org/whichversion.html))

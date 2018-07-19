@@ -1,0 +1,1 @@
+Extracted from Tomcat 5.5 (JSP Spec 2.0 (http://tomcat.apache.org/whichversion.html))
