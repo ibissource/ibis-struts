@@ -58,7 +58,7 @@ import org.apache.struts.upload.MultipartRequestHandler;
  * @version $Rev: 54929 $ $Date: 2004-10-16 17:38:42 +0100 (Sat, 16 Oct 2004) $
  */
 
-public abstract class ActionForm implements Serializable {
+public abstract class ActionForm /* implements Serializable */ {
 
 
     // ----------------------------------------------------- Instance Variables
