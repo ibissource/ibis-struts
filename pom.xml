@@ -93,6 +93,11 @@ This version of Struts doesn't throw java.io.NotSerializableException when the a
   </dependencies>
 
   <build>
+    <resources>
+      <resource>
+        <directory>src/main/resources</directory>
+      </resource>
+    </resources>
     <defaultGoal>install</defaultGoal>
     <plugins>
       <plugin>
